@@ -1,0 +1,12 @@
+{
+    "1": {
+        "name": "test",
+        "password": "test",
+        "user_type": "student"
+    },
+    "lib": {
+        "name": "libtest",
+        "password": "test",
+        "user_type": "librarian"
+    }
+}
